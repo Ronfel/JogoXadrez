@@ -1,10 +1,9 @@
 ﻿using System;
 using tabuleiro;
 
-namespace jogo_xadrez
-{
-    class Program
-    {
+namespace jogo_xadrez{
+    class Program{
+
         static void Main(string[] args) { 
             Posicao P;
             P = new Posicao(3, 4);
